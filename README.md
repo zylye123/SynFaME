@@ -1,1 +1,14 @@
 # SynFaME
+
+## Visualization
+
+### Comparision of different methods
+
+You may see the generation quality and privacy protection effect in this section.
+
+| No.  |                            Driving                            |                             FOMM                             |                             AWP                             |                            ULME-GAN                             |                            Ours                             |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  1   |    <img src="./sup_mat/real/018_3_1-display.gif" style="zoom: 33%;" />    | <img src="./sup_mat/FOMM/018_3_1-normalized_westernMale-display.gif" style="zoom: 33%;" />  | <img src="./sup_mat/AWP/018_3_1-normalized_westernMale-display.gif" style="zoom: 33%;" />  | <img src="./sup_mat/ulmegan/018_3_1-normalized_westernMale-display.gif" style="zoom: 33%;" /> |  <img src="./sup_mat/ours/018_3_1-normalized_westernMale-display.gif" style="zoom: 33%;" />  |
+|  2   |   <img src="./sup_mat/real/s3_po_05-display.gif" style="zoom: 33%;" />    | <img src="./sup_mat/FOMM/s3_po_05-normalized_asianFemale-display.gif" style="zoom: 33%;" /> | <img src="./sup_mat/AWP/s3_po_05-normalized_asianFemale-display.gif" style="zoom: 33%;" /> | <img src="./sup_mat/ulmegan/s3_po_05-normalized_asianFemale-display.gif" style="zoom: 33%;" /> | <img src="./sup_mat/ours/s3_po_05-normalized_asianFemale-display.gif" style="zoom: 33%;" />  |
+|  3   | <img src="./sup_mat/real/sub17_EP01_13-display.gif" style="zoom: 33%;" /> | <img src="./sup_mat/FOMM/sub17_EP01_13-normalized_westernMale-display.gif" style="zoom: 33%;" /> | <img src="./sup_mat/AWP/sub17_EP01_13-normalized_westernMale-display.gif" style="zoom: 33%;" /> | <img src="./sup_mat/ulmegan/sub17_EP01_13-normalized_westernMale-display.gif" style="zoom: 33%;" /> | <img src="./sup_mat/ours/sub17_EP01_13-normalized_westernMale-display.gif" style="zoom: 33%;" /> |
+|  4   | <img src="./sup_mat/real/sub19_EP01_01f-display.gif" style="zoom: 33%;" /> | <img src="./sup_mat/FOMM/sub19_EP01_01f-normalized_asianFemale-display.gif" style="zoom: 33%;" /> | <img src="./sup_mat/AWP/sub19_EP01_01f-normalized_asianFemale-display.gif" style="zoom: 33%;" /> | <img src="./sup_mat/ulmegan/sub19_EP01_01f-normalized_asianFemale-display.gif" style="zoom: 33%;" /> | <img src="./sup_mat/ours/sub19_EP01_01f-normalized_asianFemale-display.gif" style="zoom: 33%;" /> |
